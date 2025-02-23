@@ -9,7 +9,7 @@ This is a simple counter application built with React and Redux Toolkit.
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/redux-counter-app.git
+git clone https://github.com/rohitanchal/redux-counter-app.git
 cd redux-counter-app
 npm install
 npm run dev
